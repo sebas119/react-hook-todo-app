@@ -1,24 +1,30 @@
-# Intro to React + Hooks - Build a TODO App
+# TODO App + React + hooks
 
-* [] What is react?
-* [] What is JSX?
-* [] What is the "Virtual DOM"?
-* [] create-react-app
-* [] Show message from state on page
-  * [] What is useState?
-* [] Create New Todo Form
-* [] Call a function when the form is submitted
-  * [] What is useCallback?
-* [] Create a string state value to store the user input
-* [] Listen for when the input changes and update state
-* [] Log the user input when the form is submitted
-* [] Create an array state value for todos
-* [] Add a new todo into the todos array, with done: false
-* [] Show the todos in a list
-* [] Check done on a todo to mark it as done
-  * [] Show a line through the todo text
-* [] Add a button to remove a todo
-* [] Add a button to mark all todos as done
+A to-do application to write a list of tasks that needs to be done. The main purpose of a to-do is to help orginize tasks in order to improve productivity.
+
+## What I learned
+* [ ] What is react?
+* [ ] What is JSX?
+* [ ] What is the "Virtual DOM"?
+* [ ] create-react-app
+* [ ] Show message from state on page
+  * [ ] What is useState?
+* [ ] Create New Todo Form
+* [ ] Call a function when the form is submitted
+  * [ ] What is useCallback?
+
+## User Stories
+
+* [ ] Create a string state value to store the user input
+* [ ] Listen for when the input changes and update state
+* [ ] Log the user input when the form is submitted
+* [ ] Create an array state value for todos
+* [ ] Add a new todo into the todos array, with done: false
+* [ ] Show the todos in a list
+* [ ] Check done on a todo to mark it as done
+  * [ ] Show a line through the todo text
+* [ ] Add a button to remove a todo
+* [ ] Add a button to mark all todos as done
 * [ ] What are components?
 * [ ] What are props?
 * [ ] Create a TodoList Component
